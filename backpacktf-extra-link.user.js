@@ -6,7 +6,10 @@
 // @author       Zeus_Junior
 // @match        https://backpack.tf/stats/*
 // @grant        none
+// @updateURL    https://github.com/ZeusJunior/Backpack.tf-Extra-Link/raw/master/backpacktf-extra-link.meta.js
+// @downloadURL  https://github.com/ZeusJunior/Backpack.tf-Extra-Link/raw/master/backpacktf-extra-link.user.js
 // ==/UserScript==
+
 
 (function() {
     'use strict';
