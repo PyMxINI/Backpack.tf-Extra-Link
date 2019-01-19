@@ -12,9 +12,12 @@ Add a link on bptf to the stn page of an item
 4. The script should now be ready.
 
 ## Updates
-* 1.0.0 January 3rd, 2018
+* 1.0.0 January 3rd, 2019
   * Release
-* 1.1.0 Januray 3rd, 2018
+* 1.1.0 Januray 3rd, 2019
   * Haunted items now dont have a button anymore
   * Strange unus also dont for the same reason
   * Unusuals now have a button too, which links to any effect search for that hat
+* 1.1.1 Januray 19rd, 2019
+  * Fixed festivized items, they now link to the non festivized version
+  * Fixed the update notes saying 2018 lol
