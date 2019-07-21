@@ -16,7 +16,7 @@
 
     let itemLinkSTN;
     var pathArray = window.location.pathname.split('/');
-    var qualityLocation = pathArray[2] // Quality
+    var qualityLocation = pathArray[2]; // Quality
     var nameLocation = pathArray[3]; // item name
     if (qualityLocation === 'Haunted') {
         // nothing
