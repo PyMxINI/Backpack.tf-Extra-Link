@@ -1,5 +1,5 @@
 # Backpack.tf-Extra-Link
-Add a link on bptf to the stn page of an item
+Add a link on bptf to the stn page,tf2.tm,steam-trader.com,buff163 of an item
 
 ## Requirements
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (Chrome)
@@ -24,3 +24,7 @@ Add a link on bptf to the stn page of an item
 * 1.1.11 July 21st, 2019
   * "added ;" because thats useful..
   * Updated updateURL
+* 1.1.12 04.01.2022 upd by PyMxINI 
+* Added button tf2.tm
+* Added button steam-trader com
+* Added button buff163 
